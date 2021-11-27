@@ -1,12 +1,12 @@
 {
-	"prefijo": ".",
-	"BotControlador": "51948258899@s.whatsapp.net",
-	"CoCreador": "Matt_M",
-	"VCardX": "+51995386439",
-	"VCardY": "+51 995 386 439",
-	"MyPais": "51",
-	"NombreBot": "NK-BOT",
-	"LimiteEnGrupos": "2",
+	"prefijo": "/",
+	"BotControlador": "18094138873@s.whatsapp.net",
+	"CoCreador": "Otrebor-sama",
+	"VCardX": "+18094138873",
+	"VCardY": "+1 809 413 8873",
+	"MyPais": "1",
+	"NombreBot": "Bot-sama",
+	"LimiteEnGrupos": "3",
 	"LimiteComandos": "666999",
-	"TusRedesSociales": "~>[TuCanalDeYoutube]\n~>[PaginaDeFacebook]\n~>[TusOtrasRedesSociales...]"
+	"TusRedesSociales": "~>[Otrebor Dev]\n~>[Otrebor Dev]\n~>[Otrebor Dev]"
 }
